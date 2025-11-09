@@ -1,0 +1,10 @@
+# This file is used by Flutter to track the state of your project.
+# It is safe to delete it if you are using version control. If you do, Flutter will recreate it.
+version:
+  revision: "stable"
+  channel: "stable"
+project_type: app
+migration:
+  platforms:
+    - android
+    - ios
